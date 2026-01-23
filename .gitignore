@@ -42,3 +42,4 @@ ENV/
 # Project specific
 data/
 .env
+data/sdn_advanced.zip
