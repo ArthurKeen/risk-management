@@ -1,0 +1,5 @@
+python-arango
+arango-rdf
+rdflib
+lxml
+python-dotenv
