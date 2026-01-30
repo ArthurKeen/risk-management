@@ -59,5 +59,8 @@ Open the ArangoDB UI and navigate to **Graphs** -> **KnowledgeGraph**. Select th
 ### Vetting Demonstration
 To see how association with sanctioned entities affects risk scores for "clean" entities, run the Vetting Demonstration scripts (Step 5 above). Synthetic entities will appear with a purple color or vial icon, and their relationships will be dashed lines. See [docs/vetting_demo.md](docs/vetting_demo.md) for full scenario details.
 
+## Presentation
+A PDF overview of the project is in [docs/sentries-overview.pdf](docs/sentries-overview.pdf). Export your slides as PDF and save to `docs/sentries-overview.pdf` to include or update it.
+
 ## License
 MIT
